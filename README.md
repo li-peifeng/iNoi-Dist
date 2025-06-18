@@ -3,4 +3,4 @@
   </a>
 </p>
 
-# NiSweet-Dist
+# iNoi-Dist
