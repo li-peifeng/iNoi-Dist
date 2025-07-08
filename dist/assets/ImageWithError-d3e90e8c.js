@@ -1,1 +1,0 @@
-import{q as n,y as e,aD as o,J as s,S as c}from"./index-dbb9753b.js";const l=r=>{const[a,t]=n(!1);return e(c,{get when(){return!a()},get fallback(){return r.fallbackErr},get children(){return e(o,s(r,{onError:()=>{t(!0)}}))}})};export{l as I};
