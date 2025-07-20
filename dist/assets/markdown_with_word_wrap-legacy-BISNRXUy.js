@@ -1,1 +1,0 @@
-System.register(["./index-legacy-BjEzzep1.js"],function(e,t){"use strict";var r,n,c,u,a,o;return{setters:[e=>{r=e.dV,n=e.E,c=e.ap,u=e.cQ,a=e.R,o=e.ao}],execute:function(){e("default",()=>{const[e]=r();return n(o,{get loading(){return e.loading},get children(){return n(c,{class:"word-wrap",get children(){return e()?.content},get ext(){return u(a.obj.name)},toc:!0})}})})}}});
