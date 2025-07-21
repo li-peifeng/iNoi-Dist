@@ -1,1 +1,0 @@
-System.register(["./index-legacy-CktMaYj7.js"],function(e,r){"use strict";var t,s,n;return{setters:[e=>{t=e.E,s=e.q,n=e.b2}],execute:function(){e("W",e=>{const r=s();return t(n,{get colorScheme(){return e.yes?"success":"danger"},get children(){return r("global."+(e.yes?"yes":"no"))}})})}}});
