@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DG73-P5H.js"],function(e,t){"use strict";var n,r,c,u,i,o;return{setters:[e=>{n=e.dV,r=e.E,c=e.ap,u=e.cR,i=e.R,o=e.ao}],execute:function(){e("default",()=>{const[e]=n();return r(o,{get loading(){return e.loading},get children(){return r(c,{get children(){return e()?.content},get ext(){return u(i.obj.name)},toc:!0})}})})}}});
