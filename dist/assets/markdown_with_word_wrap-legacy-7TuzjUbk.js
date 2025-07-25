@@ -1,0 +1,1 @@
+System.register(["./index-legacy-exkuksbh.js"],function(e,t){"use strict";var r,n,a,c,u,o;return{setters:[e=>{r=e.dW,n=e.E,a=e.ao,c=e.cR,u=e.aa,o=e.an}],execute:function(){e("default",()=>{const[e]=r();return n(o,{get loading(){return e.loading},get children(){return n(a,{class:"word-wrap",get children(){return e()?.content},get ext(){return c(u.obj.name)},toc:!0})}})})}}});
