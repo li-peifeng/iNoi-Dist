@@ -1,1 +1,0 @@
-import{dW as a,E as r,ao as n,cR as o,aa as s,an as c}from"./index-E39u59da.js";const u=()=>{const[e]=a();return r(c,{get loading(){return e.loading},get children(){return r(n,{class:"word-wrap",get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return o(s.obj.name)},toc:!0})}})};export{u as default};
