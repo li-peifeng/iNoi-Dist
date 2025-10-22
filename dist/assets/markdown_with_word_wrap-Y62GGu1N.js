@@ -1,1 +1,0 @@
-import{e4 as n,E as r,ao as a,cY as o,a9 as s,an as c}from"./index-Bf1X_rNU.js";const u=()=>{const[e]=n();return r(c,{get loading(){return e.loading},get children(){return r(a,{class:"word-wrap",get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return o(s.obj.name)},toc:!0})}})};export{u as default};

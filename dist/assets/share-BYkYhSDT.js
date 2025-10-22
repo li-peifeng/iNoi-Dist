@@ -1,1 +1,0 @@
-import{cr as o}from"./index-Bf1X_rNU.js";const a="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",e=()=>Array.from({length:5},()=>a[Math.floor(Math.random()*a.length)]).join(""),s=(r,t)=>({base_url:location.origin+o,...r,...t});export{s as m,e as r};
