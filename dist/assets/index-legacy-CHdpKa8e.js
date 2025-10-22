@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BDeHuhEG.js","./Upload-legacy-C5S9nvnh.js","./index-legacy-Co_p50m6.js"],function(e,t){"use strict";var n,r,u,c;return{setters:[e=>{n=e.E,r=e.am,u=e.ag},e=>{c=e.default},null],execute:function(){e("default",()=>n(u,{justifyContent:"center",h:"100vh",get children(){return n(r,{w:"$md",get children(){return n(c,{})}})}}))}}});
