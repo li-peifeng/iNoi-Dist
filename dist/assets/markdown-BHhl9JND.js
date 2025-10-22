@@ -1,1 +1,0 @@
-import{e4 as r,E as n,ao as a,cY as o,a9 as c,an as s}from"./index-BPdgTgYl.js";const u=()=>{const[e]=r();return n(s,{get loading(){return e.loading},get children(){return n(a,{get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return o(c.obj.name)},toc:!0})}})};export{u as default};
