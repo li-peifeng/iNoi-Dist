@@ -1,1 +1,0 @@
-System.register(["./index-legacy-yN-z1lAK.js"],function(e,t){"use strict";var r,n,c,a,u,s;return{setters:[e=>{r=e.e4,n=e.E,c=e.aq,a=e.cR,u=e.a5,s=e.ap}],execute:function(){e("default",()=>{const[e]=r();return n(s,{get loading(){return e.loading},get children(){return n(c,{class:"word-wrap",get children(){return e()?.content},get ext(){return a(u.obj.name)},toc:!0})}})})}}});

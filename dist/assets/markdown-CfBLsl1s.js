@@ -1,1 +1,0 @@
-import{e4 as r,E as n,aq as a,cR as o,a5 as c,ap as s}from"./index-CPpolQ0D.js";const u=()=>{const[e]=r();return n(s,{get loading(){return e.loading},get children(){return n(a,{get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return o(c.obj.name)},toc:!0})}})};export{u as default};
