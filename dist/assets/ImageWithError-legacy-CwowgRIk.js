@@ -1,0 +1,1 @@
+System.register(["./index-legacy-yN-z1lAK.js"],function(e,r){"use strict";var t,n,c,u,s;return{setters:[e=>{t=e.C,n=e.E,c=e.aK,u=e.R,s=e.S}],execute:function(){e("I",e=>{const[r,a]=t(!1);return n(s,{get when(){return!r()},get fallback(){return e.fallbackErr},get children(){return n(c,u(e,{onError:()=>{a(!0)}}))}})})}}});
