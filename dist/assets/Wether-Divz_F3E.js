@@ -1,0 +1,1 @@
+import{E as t,q as s,b3 as n}from"./index-DzgZRDPa.js";const a=e=>{const r=s();return t(n,{get colorScheme(){return e.yes?"success":"danger"},get children(){return r("global.".concat(e.yes?"yes":"no"))}})};export{a as W};
